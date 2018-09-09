@@ -1,5 +1,5 @@
 # GraphNet
-GraphNet: Learning Image Pseudo Annotations for Weakly-Supervised Semantic Segmentation, in ACM MM 2018 (oral) [[Paper]](https://github.com/MengyangPu/GraphNet/blob/master/GraphNet%20.pdf)
+GraphNet: Learning Image Pseudo Annotations for Weakly-Supervised Semantic Segmentation, in ACM Multimedia 2018 (oral) [[Paper]](https://github.com/MengyangPu/GraphNet/blob/master/GraphNet%20.pdf)
 
 ## Overview
 ![Illustration](illustration.png)
