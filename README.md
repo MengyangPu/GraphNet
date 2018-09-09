@@ -4,6 +4,9 @@ GraphNet: Learning Image Pseudo Annotations for Weakly-Supervised Semantic Segme
 ## Overview
 ![Illustration](illustration.png)
 
+### Implementation Details
+The network architecture of [DeepLabv2-VGG16](https://github.com/TheLegendAli/DeepLab-Context2) serves as our network architecture of scribble and bounding box annotations experiments.
+
 ### Results
 > #### Results on the PASCAL VOC 2012 dataset
   method                      | annotation    | w/o CRF       | w/ CRF 
@@ -23,7 +26,7 @@ GraphNet: Learning Image Pseudo Annotations for Weakly-Supervised Semantic Segme
 ![CONTEXT Segmentation](context_result.png)
 
 ## Citation 
-If you find the code useful for your research, please cite:
+If you find the paper useful for your research, please cite:
 ```bibtex
 @INPROCEEDINGS{Pu2018GraphNet,
     author = {Pu, Mengyang and Huang, Yaping and Guan, Qingji and Zou, Qi},
